@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#111d4a"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#E8401C"/>
+  <text x="600" y="240" font-family="sans-serif" font-size="72" font-weight="900" fill="white" text-anchor="middle" letter-spacing="4">LEGEND</text>
+  <text x="600" y="290" font-family="sans-serif" font-size="18" fill="rgba(255,255,255,0.4)" text-anchor="middle" letter-spacing="6">RESTORATION L.L.C</text>
+  <text x="600" y="370" font-family="sans-serif" font-size="32" fill="rgba(255,255,255,0.85)" text-anchor="middle">¿Tu seguro paga tu techo nuevo?</text>
+  <text x="600" y="420" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.5)" text-anchor="middle">Inspección gratuita · Connecticut · Hablamos español</text>
+  <rect x="480" y="460" width="240" height="54" rx="12" fill="#E8401C"/>
+  <text x="600" y="493" font-family="sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">Verificar si Califico</text>
+</svg>
